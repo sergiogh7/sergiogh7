@@ -1,6 +1,4 @@
-## Hi there 👋
-
-<h1 align="center">Hi 👋, I'm Sergio Galimany Hoyo</h1>
+<h1 align="center">Hi 👋, I'm Sergio G.H</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sergiogh7&label=Profile%20views&color=0e75b6&style=flat" alt="sergiogh7" /> </p>
 
 - 🔭 I’m currently working on **Some personal apps & 90s Hardcore music.**
