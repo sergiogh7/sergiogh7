@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sergio G.H</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sergiogh7&label=Profile%20views&color=0e75b6&style=flat" alt="sergiogh7" /> </p>
 
-- 🔭 I’m currently working on **Some personal apps & 90s Hardcore music.**
+- 🔭 I’m currently working on **some personal apps & 90s Hardcore music.**
 
 - 🌱 I’m currently learning **Angular, Python.**
 
@@ -9,9 +9,9 @@
 
 - 🤝 I’m looking for help with **any idea to make some extra cash.**
 
-- 👨‍💻 All of my projects are available at [this repsoitory about code. Music = Bandcamp & Soundcloud.](this repsoitory about code. Music = Bandcamp & Soundcloud.)
+- 👨‍💻 All of my projects are available at **this repsoitory about code. Music = Bandcamp & Soundcloud.**
 
-- ⚡ Fun fact [Lost for two hours at Berlin centre when I was near the appartment lol](Lost for two hours at Berlin centre when I was near the appartment lol)
+- ⚡ Fun fact **Lost for two hours at Berlin centre when I was near the appartment lol**
 
 - 💬 Ask me about **electronic music production.**
 
